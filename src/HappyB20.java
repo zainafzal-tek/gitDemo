@@ -4,7 +4,7 @@ public class HappyB20 {
 
         System.out.println("B20 is always happy");
         System.out.println("Hello B20, how are you doing today?");
-        System.out.println("Goodnight guys");
+
 
     }
 
